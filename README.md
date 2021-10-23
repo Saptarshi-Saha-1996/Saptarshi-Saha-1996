@@ -1,4 +1,4 @@
-### স্বাগতম।  Hey, nice to see you.  👋
+## স্বাগতম।  Hey, nice to see you.  👋
 I'm Saptarshi Saha (সপ্তর্ষি সাহা), a Junior Research Fellow (PhD Student) at Computer Vision and Pattern Recognition Unit, Indian Statistical Institute, currently living in Baranagar, Kolkata (বরানগর, কলকাতা). 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saptarshi2016saha@gmail.com)](mailto:saptarshi2016saha@gmail.com)
