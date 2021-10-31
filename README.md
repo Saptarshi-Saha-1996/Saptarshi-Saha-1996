@@ -8,17 +8,6 @@ My name is Saptarshi Saha (সপ্তর্ষি সাহা). I'm a Junior 
 
 --- 
 
-<!--START_SECTION:waka-->
-
-## News
-
-```
-[23.10.2021]    completed PhD coursework. 
-
-[01.12.2020]    joined Indian Statistical Institute, Kolkata as a PhD student in Computer Science. 
-```
-
-<!--END_SECTION:waka-->
 
 
 
