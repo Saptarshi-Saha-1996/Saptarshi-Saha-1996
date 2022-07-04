@@ -13,9 +13,6 @@ My name is Saptarshi Saha (সপ্তর্ষি সাহা). I'm a Junior 
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saptarshi2016saha@gmail.com)](mailto:saptarshi2016saha@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/786823602225414144/)](https://discordapp.com/users/786823602225414144/)
-
-
 --- 
 I'm currently working causality and deep learning. 
 
