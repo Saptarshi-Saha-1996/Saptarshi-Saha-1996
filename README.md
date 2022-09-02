@@ -8,13 +8,13 @@
 
            
            
-My name is Saptarshi Saha (সপ্তর্ষি সাহা). I'm a Junior Research Fellow (PhD Student) at  __*Computer Vision and Pattern Recognition Unit, Indian Statistical Institute,*__ currently living in Baranagar, Kolkata (বরানগর, কলকাতা). 
+My name is Saptarshi Saha (সপ্তর্ষি সাহা). I'm a Junior Research Fellow (PhD Student) at  __*Computer Vision and Pattern Recognition Unit, Indian Statistical Institute,*__ currently living in Baranagar, Kolkata (বরানগর, কলকাতা).
 
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saptarshi2016saha@gmail.com)](mailto:saptarshi2016saha@gmail.com)
 --- 
-I'm currently working causality and deep learning. 
+I am working on deep learning (particularly generative models) and causality. Currently, I am also an AI\ML Research Intern @[Drishti](https://drishti.com/).
 
 
 --------------
