@@ -9,13 +9,9 @@
            
            
 My name is Saptarshi Saha (সপ্তর্ষি সাহা). I'm a Junior Research Fellow (PhD Student) at  __*Computer Vision and Pattern Recognition Unit, Indian Statistical Institute,*__ currently living in Baranagar, Kolkata (বরানগর, কলকাতা).
+I completed BS-MS in Mathematics from __*Indian Institute of Science Education and Research Kolkata*__. 
 
 [![logo](https://user-images.githubusercontent.com/78164336/193410185-1461e8cb-7cf0-4b23-bac2-eaf9c90c01e8.png)](https://www.isical.ac.in/)
-
-
-
-I completed BS-MS in Mathematics from Indian Institute of Science Education and Research Kolkata. 
-
 [<img src="https://user-images.githubusercontent.com/78164336/193417535-bef01418-500d-42fe-84cf-10b6812a435e.png" width="80" height="80">](https://www.iiserkol.ac.in/web/en/#gsc.tab=0) 
 
 --- 
