@@ -16,7 +16,7 @@ My name is Saptarshi Saha (সপ্তর্ষি সাহা). I'm a Junior 
 
 I completed BS-MS in Mathematics from Indian Institute of Science Education and Research Kolkata. 
 
-[<img src="https://user-images.githubusercontent.com/78164336/193417535-bef01418-500d-42fe-84cf-10b6812a435e.png" width="60" height="60">](https://www.iiserkol.ac.in/web/en/#gsc.tab=0) 
+[<img src="https://user-images.githubusercontent.com/78164336/193417535-bef01418-500d-42fe-84cf-10b6812a435e.png" width="80" height="80">](https://www.iiserkol.ac.in/web/en/#gsc.tab=0) 
 
 --- 
 I am working on deep learning (particularly generative models) and causality.
