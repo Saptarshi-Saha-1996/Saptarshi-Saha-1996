@@ -15,9 +15,7 @@ I completed BS-MS in Mathematics from __*Indian Institute of Science Education a
 [<img src="https://user-images.githubusercontent.com/78164336/193417535-bef01418-500d-42fe-84cf-10b6812a435e.png" width="80" height="80">](https://www.iiserkol.ac.in/web/en/#gsc.tab=0) 
 
 --- 
-I am working on deep learning (particularly generative models) and causality.
-
-Currently, I am also an AI\ML Research Intern at [<img src="https://user-images.githubusercontent.com/78164336/193410719-9a91d142-36d7-4923-89a5-8b2fdd92599d.svg" width="60" height="20">](https://drishti.com/) .
+I am working on deep learning (particularly generative models) and causality. Currently, I am also an AI\ML Research Intern at [<img src="https://user-images.githubusercontent.com/78164336/193410719-9a91d142-36d7-4923-89a5-8b2fdd92599d.svg" width="60" height="20">](https://drishti.com/) .
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saptarshi2016saha@gmail.com)](mailto:saptarshi2016saha@gmail.com)
