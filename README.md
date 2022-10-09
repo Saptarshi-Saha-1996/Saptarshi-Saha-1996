@@ -23,7 +23,7 @@ I am working on Deep Learning (particularly generative models) and Causality. Cu
 ---
 ### আমার পছন্দের কিছু গান (Some of my favorite songs) -
 
-[এই অবেলায়](https://www.youtube.com/watch?v=agYzgxruck0), [মন হাওয়ায় পেয়েছি তোর নাম](https://www.youtube.com/watch?v=nxVjsESsGwo), [ভালোবাসি জ্যোৎস্নায় কাশবনে ছুটতে](https://www.youtube.com/watch?v=XMy4KmUgXJw), [টাইটেলঃ ১০১](https://www.youtube.com/watch?v=1hgrjlfVAIQ), [একা](https://www.youtube.com/watch?v=Ivoa6EtFVPw&list=RDoZgJel6Y2fE&index=33), [বর্ণে, গন্ধে, ছন্দে, গীতিতে](https://www.youtube.com/watch?v=z9Int8aCxDs&list=RDMMz9Int8aCxDs&start_radio=1), [আমি শুনেছি সেদিন তুমি](https://www.youtube.com/watch?v=mycSKkNykQ4&list=RDMMz9Int8aCxDs&index=3), [হয়নি আলাপ](https://www.youtube.com/watch?v=SlBjKUNk6pk&list=RDMMz9Int8aCxDs&index=9)
+[এই অবেলায়](https://www.youtube.com/watch?v=agYzgxruck0), [মন হাওয়ায় পেয়েছি তোর নাম](https://www.youtube.com/watch?v=nxVjsESsGwo), [ভালোবাসি জ্যোৎস্নায় কাশবনে ছুটতে](https://www.youtube.com/watch?v=XMy4KmUgXJw), [টাইটেলঃ ১০১](https://www.youtube.com/watch?v=1hgrjlfVAIQ), [একা](https://www.youtube.com/watch?v=Ivoa6EtFVPw&list=RDoZgJel6Y2fE&index=33), [বর্ণে, গন্ধে, ছন্দে, গীতিতে](https://www.youtube.com/watch?v=z9Int8aCxDs&list=RDMMz9Int8aCxDs&start_radio=1), [আমি শুনেছি সেদিন তুমি](https://www.youtube.com/watch?v=mycSKkNykQ4&list=RDMMz9Int8aCxDs&index=3), [হয়নি আলাপ](https://www.youtube.com/watch?v=SlBjKUNk6pk&list=RDMMz9Int8aCxDs&index=9), [এইটা তোমার গান](https://www.youtube.com/watch?v=kpq572hbVhY), []()
 
 
 
