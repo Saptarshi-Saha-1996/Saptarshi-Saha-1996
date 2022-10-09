@@ -21,6 +21,15 @@ I am working on deep learning (particularly generative models) and causality. Cu
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saptarshi2016saha@gmail.com)](mailto:saptarshi2016saha@gmail.com)
 <a href="https://twitter.com/Rishi7Stars"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
+আমার প্রিয় কিছু গান -
+
+[এই অবেলায় ](https://www.youtube.com/watch?v=agYzgxruck0)
+
+
+
+
+
+
 --------------
 ## News & Updates
 
