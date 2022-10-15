@@ -11,8 +11,7 @@ My name is Saptarshi Saha (সপ্তর্ষি সাহা). I'm a Junior 
 [![logo](https://user-images.githubusercontent.com/78164336/193410185-1461e8cb-7cf0-4b23-bac2-eaf9c90c01e8.png)](https://www.isical.ac.in/)
 [<img src="https://user-images.githubusercontent.com/78164336/193417535-bef01418-500d-42fe-84cf-10b6812a435e.png" width="80" height="80">](https://www.iiserkol.ac.in/web/en/#gsc.tab=0) 
 
-I am working on Deep Learning (particularly generative models) and Causality. Currently, I am also an AI\ML Research Intern at [<img src="https://user-images.githubusercontent.com/78164336/193410719-9a91d142-36d7-4923-89a5-8b2fdd92599d.svg" width="60" height="20">](https://drishti.com/) .
-
+I am working on Deep Learning (particularly generative models) and Causality. 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saptarshi2016saha@gmail.com)](mailto:saptarshi2016saha@gmail.com)
 <a href="https://twitter.com/Rishi7Stars"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -40,6 +39,10 @@ I am working on Deep Learning (particularly generative models) and Causality. Cu
 আমার নাম সপ্তর্ষি সাহা। আমি বর্তমানে __*Indian Statistical Institute*__-এর __*Computer Vision and Pattern Recognition Unit*__-এ  একজন Junior Research Fellow (PhD Student in Computer Science). __*Indian Statistical Institute*__-এ যোগদানের পূর্বে, আমি __*Indian Institute of Science Education and Research Kolkata*__ থেকে গণিতে BS-MS সম্পন্ন করেছি।   
 
 **Saptarshi-Saha-1996/Saptarshi-Saha-1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+Currently, I am also an AI\ML Research Intern at [<img src="https://user-images.githubusercontent.com/78164336/193410719-9a91d142-36d7-4923-89a5-8b2fdd92599d.svg" width="60" height="20">](https://drishti.com/) .
+
 
 Here are some ideas to get you started:
 
