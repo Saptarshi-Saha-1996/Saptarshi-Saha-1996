@@ -35,8 +35,6 @@ I am working on Deep Learning (particularly generative models) and Causality.
 ---
 
 
-![](https://komarev.com/ghpvc/?username=Saptarshi-Saha-1996)
-
 
 <!--
 
