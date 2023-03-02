@@ -32,6 +32,8 @@ I am working on Deep Learning (particularly generative models) and Causality.
 --------------
 ## News & Updates
 
+[**Oct 2022**] Paper accepted! Our work **"On Noise Abduction for Answering Counterfactual Queries: A Practical Outlook"** has been published in **Transactions on Machine Learning Research**.
+
 ---
 
 
