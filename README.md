@@ -6,7 +6,9 @@
 
 ## স্বাগতম।  Hey, nice to see you.  👋
 
-My name is Saptarshi Saha (সপ্তর্ষি সাহা). I'm a Junior Research Fellow (PhD Student in Computer Science) at the  __*Computer Vision and Pattern Recognition Unit, Indian Statistical Institute,*__ currently living in Baranagar, Kolkata (বরানগর, কলকাতা). I completed BS-MS in Mathematics from the __*Indian Institute of Science Education and Research Kolkata*__.  I was an AI\ML Research Intern at [<img src="https://user-images.githubusercontent.com/78164336/193410719-9a91d142-36d7-4923-89a5-8b2fdd92599d.svg" width="60" height="20">](https://drishti.com/) .
+My name is Saptarshi Saha (সপ্তর্ষি সাহা). I'm a Junior Research Fellow (PhD Student in Computer Science) at the  __*Computer Vision and Pattern Recognition Unit, Indian Statistical Institute,*__ currently living in Baranagar, Kolkata (বরানগর, কলকাতা). I completed BS-MS in Mathematics from the __*Indian Institute of Science Education and Research Kolkata*__. 
+
+
 
 
 [![logo](https://user-images.githubusercontent.com/78164336/193410185-1461e8cb-7cf0-4b23-bac2-eaf9c90c01e8.png)](https://www.isical.ac.in/)
@@ -41,6 +43,7 @@ I am working on Deep Learning (particularly generative models) and Causality. I 
 
 <!--
 
+I was an AI\ML Research Intern at [<img src="https://user-images.githubusercontent.com/78164336/193410719-9a91d142-36d7-4923-89a5-8b2fdd92599d.svg" width="60" height="20">](https://drishti.com/) .
 
 আমার নাম সপ্তর্ষি সাহা। আমি বর্তমানে __*Indian Statistical Institute*__-এর __*Computer Vision and Pattern Recognition Unit*__-এ  একজন Junior Research Fellow (PhD Student in Computer Science). __*Indian Statistical Institute*__-এ যোগদানের পূর্বে, আমি __*Indian Institute of Science Education and Research Kolkata*__ থেকে গণিতে BS-MS সম্পন্ন করেছি।   
 
