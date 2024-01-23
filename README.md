@@ -27,6 +27,11 @@ I am working on Deep Learning (particularly generative models) and Causality. I 
 
 [Bella Ciao](https://www.youtube.com/watch?v=0aUav1lx3rA), [Hotel California](https://www.youtube.com/watch?v=UehilhnMt5Y), [Blowin' in the Wind ](https://www.youtube.com/watch?v=MMFj8uDubsE), [One More Cup of Coffee ](https://www.youtube.com/watch?v=95cufW4h-gA), [Mr. Tambourine Man](https://www.youtube.com/watch?v=OeP4FFr88SQ)
 
+### আমার পছন্দের কিছু রেস্তোরাঁ (Some of my favorite restaurants in Kolkata) -
+*Bengali cuisine (বাঙালি খাবার)*:
+[হোটেল তরুণ নিকেতন](https://www.google.com/maps/place/Hotel+Tarun+Niketan+(Pice+Hotel)/@22.5169621,88.3444626,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027735253b7d1b:0x90d12379033074f0!8m2!3d22.5169621!4d88.3470375!16s%2Fg%2F11c6q99bj6?entry=ttu)
+
+
 
 
 
