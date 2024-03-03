@@ -40,6 +40,8 @@ I am working on Deep Learning (particularly generative models) and Causality. I 
 --------------
 ## News & Updates
 
+:airplane: [**Mar 2024**] I am attending **MLSS 2024** in Okinawa, Japan.
+
 :tada: [**Feb 2024**] Paper accepted! Our work **"Region Mixup"** has been accepted in the twelfth **International Conference on Learning Representations (ICLR 2024)** as a tiny paper (Invite to present).
 
 :tada: [**Oct 2022**] Paper accepted! Our work **"On Noise Abduction for Answering Counterfactual Queries: A Practical Outlook"** has been published in **Transactions on Machine Learning Research**.
