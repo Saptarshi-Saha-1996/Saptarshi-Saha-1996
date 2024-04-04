@@ -14,7 +14,7 @@ My name is Saptarshi Saha (সপ্তর্ষি সাহা). I'm a Senior 
 [![logo](https://user-images.githubusercontent.com/78164336/193410185-1461e8cb-7cf0-4b23-bac2-eaf9c90c01e8.png)](https://www.isical.ac.in/)
 [<img src="https://user-images.githubusercontent.com/78164336/193417535-bef01418-500d-42fe-84cf-10b6812a435e.png" width="80" height="80">](https://www.iiserkol.ac.in/web/en/#gsc.tab=0) 
 
-I am working on Deep Learning (particularly generative models) and Causality. I don't use any social media other than Twitter.
+I am working on Deep Learning (particularly generative models) and Causality. I don't use any social media other than Twitter and Instagram.
 
 <a href="https://twitter.com/Rishi7Stars"><img alt="Twitter" title="Jaydeep Yadav Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saptarshi2016saha@gmail.com)](mailto:saptarshi2016saha@gmail.com)
