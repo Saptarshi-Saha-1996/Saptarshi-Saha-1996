@@ -39,6 +39,8 @@ I am working on Deep Learning (particularly generative models) and Causality. I 
 --------------
 ## News & Updates
 
+:man_scientist: [**April-July 2024**] I am visiting **CISPA Helmholtz Center for Information Security** with **Helmholtz Visiting Researcher Grant**.
+
 :airplane: [**Mar 2024**] I attended **MLSS 2024** in Okinawa, Japan.
 
 :tada: [**Feb 2024**] Paper accepted! Our work **"Region Mixup"** has been accepted in the twelfth **International Conference on Learning Representations (ICLR 2024)** as a tiny paper (Invite to present).
