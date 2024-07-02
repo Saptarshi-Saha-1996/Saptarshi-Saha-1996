@@ -45,6 +45,8 @@ I am working on Deep Learning (particularly generative models) and Causality. I 
 
 :tada: [**Feb 2024**] Paper accepted! Our work **"Region Mixup"** has been accepted in the twelfth **International Conference on Learning Representations (ICLR 2024)** as a tiny paper (Invite to present).
 
+:man_technologist: [**Dec 1, 2023**] I presented our recent work at [Amazon Research Day](https://press.aboutamazon.in/news-releases/news-release-details/amazon-research-day-2023-stage-amazons-machine-learning-and).
+
 :tada: [**Oct 2022**] Paper accepted! Our work **"On Noise Abduction for Answering Counterfactual Queries: A Practical Outlook"** has been published in **Transactions on Machine Learning Research**.
 
 ---
