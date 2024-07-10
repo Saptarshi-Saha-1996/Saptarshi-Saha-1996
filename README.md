@@ -39,7 +39,7 @@ I am working on Deep Learning (particularly generative models) and Causality. I 
 --------------
 ## News & Updates
 
-:man_scientist: [**April-July 2024**] I am visiting **CISPA Helmholtz Center for Information Security** with **Helmholtz Visiting Researcher Grant**.
+:man_scientist: [**April-July 2024**] I visited **Rational Intelligence Lab** @ **CISPA Helmholtz Center for Information Security** with **Helmholtz Visiting Researcher Grant**.
 
 :airplane: [**Mar 2024**] I attended **MLSS 2024** in Okinawa, Japan.
 
