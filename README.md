@@ -39,6 +39,9 @@ I am working on Deep Learning (particularly generative models) and Causality. I 
 --------------
 ## News & Updates
 
+:tada: [**July 2024**] Paper accepted! Our work **"VALUED - Vision and Logical Understanding Evaluation Dataset
+"** has been accepted in the **Journal of Data-centric Machine Learning Research**.
+
 :man_scientist: [**April-July 2024**] I visited **Rational Intelligence Lab** @ **CISPA Helmholtz Center for Information Security** with **Helmholtz Visiting Researcher Grant**.
 
 :airplane: [**Mar 2024**] I attended **MLSS 2024** in Okinawa, Japan.
