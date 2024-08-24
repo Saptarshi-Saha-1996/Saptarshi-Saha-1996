@@ -25,7 +25,7 @@ I am working on Deep Learning (particularly generative models) and Causality. I 
 
 [এই অবেলায়](https://www.youtube.com/watch?v=agYzgxruck0), [মন হাওয়ায় পেয়েছি তোর নাম](https://www.youtube.com/watch?v=nxVjsESsGwo), [ভালোবাসি জ্যোৎস্নায় কাশবনে ছুটতে](https://www.youtube.com/watch?v=XMy4KmUgXJw), [টাইটেলঃ ১০১](https://www.youtube.com/watch?v=1hgrjlfVAIQ), [একা](https://www.youtube.com/watch?v=Ivoa6EtFVPw&list=RDoZgJel6Y2fE&index=33), [বর্ণে, গন্ধে, ছন্দে, গীতিতে](https://www.youtube.com/watch?v=z9Int8aCxDs&list=RDMMz9Int8aCxDs&start_radio=1), [আমি শুনেছি সেদিন তুমি](https://www.youtube.com/watch?v=mycSKkNykQ4&list=RDMMz9Int8aCxDs&index=3), [হয়নি আলাপ](https://www.youtube.com/watch?v=SlBjKUNk6pk&list=RDMMz9Int8aCxDs&index=9), [এইটা তোমার গান](https://www.youtube.com/watch?v=kpq572hbVhY), [আমার এটুক শুধু চাওয়া](https://www.youtube.com/watch?v=iXMkVMRlZjU), [জলচিঠি](https://www.youtube.com/watch?v=zg6-1gqoeUk&list=RDzg6-1gqoeUk&start_radio=1), [ধাঁধার থেকেও জটিল তুমি ](https://www.youtube.com/watch?v=zKOduuC6H4c), [মন আমার কেমন কেমন করে](https://www.youtube.com/watch?v=2qRYOe7ZSU8), [দিশেহারা তুই](https://www.youtube.com/watch?v=weowPNBgNZ4), [কবিতার গান ](https://www.youtube.com/watch?v=E263tXzw0Gw&list=RDCPgJR8ZmSNI&index=2), [তুমিও আমায় ভালবাসো আমি ভালবাসি- মল্লিক ঐশ্বর্য](https://www.youtube.com/watch?v=I1XdJSBBFJI)
 
-[Bella Ciao](https://www.youtube.com/watch?v=0aUav1lx3rA), [Hotel California](https://www.youtube.com/watch?v=UehilhnMt5Y), [Blowin' in the Wind ](https://www.youtube.com/watch?v=MMFj8uDubsE), [One More Cup of Coffee ](https://www.youtube.com/watch?v=95cufW4h-gA), [Mr. Tambourine Man](https://www.youtube.com/watch?v=OeP4FFr88SQ)
+[Bella Ciao](https://www.youtube.com/watch?v=0aUav1lx3rA), [Hotel California](https://www.youtube.com/watch?v=UehilhnMt5Y), [Blowin' in the Wind ](https://www.youtube.com/watch?v=MMFj8uDubsE), [One More Cup of Coffee ](https://www.youtube.com/watch?v=95cufW4h-gA), [Mr. Tambourine Man](https://www.youtube.com/watch?v=OeP4FFr88SQ), [Skyfall](https://www.youtube.com/watch?v=DeumyOzKqgI)
 
 ### আমার পছন্দের কিছু রেস্তোরাঁ (Some of my favorite restaurants in Kolkata) -
 *Bengali cuisine (বাঙালি খাবার)*:
@@ -38,6 +38,8 @@ I am working on Deep Learning (particularly generative models) and Causality. I 
 
 --------------
 ## News & Updates
+
+:tada: [**Sept 2024**] I am humbled to have been awarded the prestigious [Fulbright-Nehru Doctoral Research Fellowships](https://www.usief.org.in/scholar-profile/scholarprofiledetails.aspx?fellowid=13190). 
 
 :tada: [**July 2024**] Paper accepted! Our work **"VALUED - Vision and Logical Understanding Evaluation Dataset
 "** has been accepted in the **Journal of Data-centric Machine Learning Research**. Congratulations to [Soumadeep](https://github.com/espressoVi)! 
