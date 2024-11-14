@@ -2,7 +2,7 @@
                    But my laugh must never be the reason for somebody's pain.”
                                                            - Charlie Chaplin
 
-
+<!--
 
 ## স্বাগতম।  Hey, nice to see you.  👋
 
@@ -58,7 +58,7 @@ I am working on Deep Learning (particularly generative models) and Causality. I 
 
 
 
-<!--
+
 
 I was an AI\ML Research Intern at [<img src="https://user-images.githubusercontent.com/78164336/193410719-9a91d142-36d7-4923-89a5-8b2fdd92599d.svg" width="60" height="20">](https://drishti.com/) .
 
