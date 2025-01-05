@@ -2,6 +2,14 @@
                    But my laugh must never be the reason for somebody's pain.”
                                                            - Charlie Chaplin
 
+
+### আমার পছন্দের কিছু গান (Some of my favorite songs) -
+
+[এই অবেলায়](https://www.youtube.com/watch?v=agYzgxruck0), [মন হাওয়ায় পেয়েছি তোর নাম](https://www.youtube.com/watch?v=nxVjsESsGwo), [ভালোবাসি জ্যোৎস্নায় কাশবনে ছুটতে](https://www.youtube.com/watch?v=XMy4KmUgXJw), [টাইটেলঃ ১০১](https://www.youtube.com/watch?v=1hgrjlfVAIQ), [একা](https://www.youtube.com/watch?v=Ivoa6EtFVPw&list=RDoZgJel6Y2fE&index=33), [বর্ণে, গন্ধে, ছন্দে, গীতিতে](https://www.youtube.com/watch?v=z9Int8aCxDs&list=RDMMz9Int8aCxDs&start_radio=1), [আমি শুনেছি সেদিন তুমি](https://www.youtube.com/watch?v=mycSKkNykQ4&list=RDMMz9Int8aCxDs&index=3), [হয়নি আলাপ](https://www.youtube.com/watch?v=SlBjKUNk6pk&list=RDMMz9Int8aCxDs&index=9), [এইটা তোমার গান](https://www.youtube.com/watch?v=kpq572hbVhY), [আমার এটুক শুধু চাওয়া](https://www.youtube.com/watch?v=iXMkVMRlZjU), [জলচিঠি](https://www.youtube.com/watch?v=zg6-1gqoeUk&list=RDzg6-1gqoeUk&start_radio=1), [ধাঁধার থেকেও জটিল তুমি ](https://www.youtube.com/watch?v=zKOduuC6H4c), [মন আমার কেমন কেমন করে](https://www.youtube.com/watch?v=2qRYOe7ZSU8), [দিশেহারা তুই](https://www.youtube.com/watch?v=weowPNBgNZ4), [কবিতার গান ](https://www.youtube.com/watch?v=E263tXzw0Gw&list=RDCPgJR8ZmSNI&index=2), [তুমিও আমায় ভালবাসো আমি ভালবাসি- মল্লিক ঐশ্বর্য](https://www.youtube.com/watch?v=I1XdJSBBFJI)
+
+[Bella Ciao](https://www.youtube.com/watch?v=0aUav1lx3rA), [Hotel California](https://www.youtube.com/watch?v=UehilhnMt5Y), [Blowin' in the Wind ](https://www.youtube.com/watch?v=MMFj8uDubsE), [One More Cup of Coffee ](https://www.youtube.com/watch?v=95cufW4h-gA), [Mr. Tambourine Man](https://www.youtube.com/watch?v=OeP4FFr88SQ), [Skyfall](https://www.youtube.com/watch?v=DeumyOzKqgI)
+
+
 <!--
 
 ## স্বাগতম।  Hey, nice to see you.  👋
@@ -21,21 +29,9 @@ I am working on Deep Learning (particularly generative models) and Causality. I 
 
 
 ---
-### আমার পছন্দের কিছু গান (Some of my favorite songs) -
-
-[এই অবেলায়](https://www.youtube.com/watch?v=agYzgxruck0), [মন হাওয়ায় পেয়েছি তোর নাম](https://www.youtube.com/watch?v=nxVjsESsGwo), [ভালোবাসি জ্যোৎস্নায় কাশবনে ছুটতে](https://www.youtube.com/watch?v=XMy4KmUgXJw), [টাইটেলঃ ১০১](https://www.youtube.com/watch?v=1hgrjlfVAIQ), [একা](https://www.youtube.com/watch?v=Ivoa6EtFVPw&list=RDoZgJel6Y2fE&index=33), [বর্ণে, গন্ধে, ছন্দে, গীতিতে](https://www.youtube.com/watch?v=z9Int8aCxDs&list=RDMMz9Int8aCxDs&start_radio=1), [আমি শুনেছি সেদিন তুমি](https://www.youtube.com/watch?v=mycSKkNykQ4&list=RDMMz9Int8aCxDs&index=3), [হয়নি আলাপ](https://www.youtube.com/watch?v=SlBjKUNk6pk&list=RDMMz9Int8aCxDs&index=9), [এইটা তোমার গান](https://www.youtube.com/watch?v=kpq572hbVhY), [আমার এটুক শুধু চাওয়া](https://www.youtube.com/watch?v=iXMkVMRlZjU), [জলচিঠি](https://www.youtube.com/watch?v=zg6-1gqoeUk&list=RDzg6-1gqoeUk&start_radio=1), [ধাঁধার থেকেও জটিল তুমি ](https://www.youtube.com/watch?v=zKOduuC6H4c), [মন আমার কেমন কেমন করে](https://www.youtube.com/watch?v=2qRYOe7ZSU8), [দিশেহারা তুই](https://www.youtube.com/watch?v=weowPNBgNZ4), [কবিতার গান ](https://www.youtube.com/watch?v=E263tXzw0Gw&list=RDCPgJR8ZmSNI&index=2), [তুমিও আমায় ভালবাসো আমি ভালবাসি- মল্লিক ঐশ্বর্য](https://www.youtube.com/watch?v=I1XdJSBBFJI)
-
-[Bella Ciao](https://www.youtube.com/watch?v=0aUav1lx3rA), [Hotel California](https://www.youtube.com/watch?v=UehilhnMt5Y), [Blowin' in the Wind ](https://www.youtube.com/watch?v=MMFj8uDubsE), [One More Cup of Coffee ](https://www.youtube.com/watch?v=95cufW4h-gA), [Mr. Tambourine Man](https://www.youtube.com/watch?v=OeP4FFr88SQ), [Skyfall](https://www.youtube.com/watch?v=DeumyOzKqgI)
-
 ### আমার পছন্দের কিছু রেস্তোরাঁ (Some of my favorite restaurants in Kolkata) -
 *Bengali cuisine (বাঙালি খাবার)*:
 [হোটেল তরুণ নিকেতন](https://www.google.com/maps/place/Hotel+Tarun+Niketan+(Pice+Hotel)/@22.5169621,88.3444626,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027735253b7d1b:0x90d12379033074f0!8m2!3d22.5169621!4d88.3470375!16s%2Fg%2F11c6q99bj6?entry=ttu), [আহার রেস্টুরেন্ট](https://www.google.com/maps/place/Ahar+Hotel/@22.5700799,88.3511673,15z/data=!4m10!1m2!2m1!1sAhar+Hotel!3m6!1s0x3a0276511510d401:0x38b554041afd90ec!8m2!3d22.5715759!4d88.3689499!15sCgpBaGFyIEhvdGVsWgwiCmFoYXIgaG90ZWySAQpyZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJTWjBsVVJGTjNFQUXgAQA!16s%2Fg%2F11f15my40r?entry=ttu)
-
-
-
-
-
-
 --------------
 ## News & Updates
 
