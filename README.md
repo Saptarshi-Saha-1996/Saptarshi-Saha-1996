@@ -12,12 +12,14 @@
 
 and anything from KK (Krishnakumar Kunnath). 
 
+<!--
+
 ### আমার পছন্দের কিছু রেস্তোরাঁ (Some of my favorite restaurants in Kolkata) -
 *Bengali cuisine (বাঙালি খাবার)*:
 [হোটেল তরুণ নিকেতন](https://www.google.com/maps/place/Hotel+Tarun+Niketan+(Pice+Hotel)/@22.5169621,88.3444626,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027735253b7d1b:0x90d12379033074f0!8m2!3d22.5169621!4d88.3470375!16s%2Fg%2F11c6q99bj6?entry=ttu), [আহার রেস্টুরেন্ট](https://www.google.com/maps/place/Ahar+Hotel/@22.5700799,88.3511673,15z/data=!4m10!1m2!2m1!1sAhar+Hotel!3m6!1s0x3a0276511510d401:0x38b554041afd90ec!8m2!3d22.5715759!4d88.3689499!15sCgpBaGFyIEhvdGVsWgwiCmFoYXIgaG90ZWySAQpyZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJTWjBsVVJGTjNFQUXgAQA!16s%2Fg%2F11f15my40r?entry=ttu)
 
 
-<!--
+
 
 ## স্বাগতম।  Hey, nice to see you.  👋
 
