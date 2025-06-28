@@ -6,10 +6,6 @@
 
 I'm a Senior Research Fellow (PhD Student in Computer Science) at the  __*Computer Vision and Pattern Recognition Unit, Indian Statistical Institute,*__ currently living in Baranagar, Kolkata (বরানগর, কলকাতা). I completed BS-MS in Mathematics from the __*Indian Institute of Science Education and Research Kolkata*__.  
 
-```
-Don't get too close, it's dark inside
-It's where my demons hide
-```
 
 ### I hate songs ( :musical_note: ) and flowers ( :rose: ) . 
 
