@@ -17,8 +17,8 @@ I'm a Senior Research Fellow (PhD Student in Computer Science) at the  __*Comput
 [মহল রেস্টুরেন্ট](https://www.google.com/maps/place/Mahal+Restaurant/@22.5751619,88.3657643,813m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3a02764630db4269:0x17a69aa8a52ad494!8m2!3d22.5751619!4d88.3657643!16s%2Fg%2F1tdl4k98?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D)
 
 ## I have the privilege of mentoring these outstanding individuals.
-- [Pratyush Kumar Sahoo](https://in.linkedin.com/in/pratyush-kumar-169494239)
-- [Dhruv Rathore](https://in.linkedin.com/in/dhruv-vansraj-rathore-a724291a3) 
+- [Pratyush Kumar Sahoo](https://in.linkedin.com/in/pratyush-kumar-169494239), *Indian Statistical Instittue*
+- [Dhruv Rathore](https://in.linkedin.com/in/dhruv-vansraj-rathore-a724291a3), *Indian Statistical Institute* 
 
 
 
