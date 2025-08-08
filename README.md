@@ -5,8 +5,6 @@
 ## স্বাগতম।  Hey, nice to see you.  👋
 
 
-*Data holds many stories — my research seeks to uncover the causal one.*
-
 
 I'm a Senior Research Fellow (PhD Student in Computer Science) at the  __*Computer Vision and Pattern Recognition Unit, Indian Statistical Institute,*__ currently living in Baranagar, Kolkata (বরানগর, কলকাতা). I completed BS-MS in Mathematics from the __*Indian Institute of Science Education and Research Kolkata*__.  
 
