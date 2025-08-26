@@ -19,6 +19,9 @@ I'm a Senior Research Fellow (PhD Student in Computer Science) at the  __*Comput
 [হোটেল সিদ্ধেশ্বরী আশ্রম](https://www.google.com/maps/place/Hotel+Sidheshwari+Ashram/@22.5611865,88.3526754,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027707ac7564fd:0xfede2cdf6c04be79!8m2!3d22.5611865!4d88.3552557!16s%2Fg%2F11bv30hpfg?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D), 
 [ধামসা ট্রাইবাল রেস্টুরেন্ট](https://www.google.com/maps/place/Dhamsa+Tribal+Restaurant/@22.60311,88.4633607,17z/data=!4m14!1m7!3m6!1s0x3a02757e43e31da9:0xeb86d78bac38417f!2sDhamsa+Tribal+Restaurant!8m2!3d22.60311!4d88.465941!16s%2Fg%2F11ng0ky6n8!3m5!1s0x3a02757e43e31da9:0xeb86d78bac38417f!8m2!3d22.60311!4d88.465941!16s%2Fg%2F11ng0ky6n8?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D)
 
+*Chinese cuisine*: 
+
+
 ## I have the privilege of mentoring these outstanding individuals.
 - [Pratyush Kumar Sahoo](https://in.linkedin.com/in/pratyush-kumar-169494239), *Indian Statistical Instittue (2023-24)*
 - [Dhruv Rathore](https://in.linkedin.com/in/dhruv-vansraj-rathore-a724291a3), *Indian Statistical Institute (2024-25)*
