@@ -8,10 +8,6 @@
 
 I'm a Senior Research Fellow (PhD Student in Computer Science) at the  __*Computer Vision and Pattern Recognition Unit, Indian Statistical Institute,*__ currently living in Baranagar, Kolkata (বরানগর, কলকাতা). I completed BS-MS in Mathematics from the __*Indian Institute of Science Education and Research Kolkata*__.  
 
-### I hate songs ( :musical_note: ) and flowers ( :rose: ) . 
-
-
-
 
 ### আমার পছন্দের কিছু রেস্তোরাঁ (Some of my favorite restaurants in Kolkata) -
 *Bengali cuisine (বাঙালি খাবার)*:
@@ -21,6 +17,7 @@ I'm a Senior Research Fellow (PhD Student in Computer Science) at the  __*Comput
 [ধামসা ট্রাইবাল রেস্টুরেন্ট](https://www.google.com/maps/place/Dhamsa+Tribal+Restaurant/@22.60311,88.4633607,17z/data=!4m14!1m7!3m6!1s0x3a02757e43e31da9:0xeb86d78bac38417f!2sDhamsa+Tribal+Restaurant!8m2!3d22.60311!4d88.465941!16s%2Fg%2F11ng0ky6n8!3m5!1s0x3a02757e43e31da9:0xeb86d78bac38417f!8m2!3d22.60311!4d88.465941!16s%2Fg%2F11ng0ky6n8?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D)
 
 *Chinese cuisine*: 
+[Tung Nam](https://www.google.com/maps/place/Tung+Nam+Eating+House/@22.5726983,88.3527482,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277af008dbd7b:0x14a9393528dc1d54!8m2!3d22.5726983!4d88.3553231!16s%2Fg%2F1hhwwfxqb?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D)
 
 
 ## I have the privilege of mentoring these outstanding individuals.
