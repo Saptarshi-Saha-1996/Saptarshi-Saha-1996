@@ -20,10 +20,13 @@ I'm a Senior Research Fellow (PhD Student in Computer Science) at the  __*Comput
 [Tung Nam](https://www.google.com/maps/place/Tung+Nam+Eating+House/@22.5726983,88.3527482,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0277af008dbd7b:0x14a9393528dc1d54!8m2!3d22.5726983!4d88.3553231!16s%2Fg%2F1hhwwfxqb?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D)
 
 
-## I have the privilege of mentoring these outstanding individuals.
+## I have the privilege of mentoring these outstanding individuals:
 - [Pratyush Kumar Sahoo](https://in.linkedin.com/in/pratyush-kumar-169494239), *Indian Statistical Instittue (2023-24)*
 - [Dhruv Rathore](https://in.linkedin.com/in/dhruv-vansraj-rathore-a724291a3), *Indian Statistical Institute (2024-25)*
 - [Rashmi Konnur](https://in.linkedin.com/in/rashmi-konnur-345600255), *Indian Statistical Institute (2025-26)*
+
+  ## I am fortunate to have worked with the following exceptional collaborators:
+  - [Soumadeep Saha](https://espressovi.github.io/)
 
 
 
