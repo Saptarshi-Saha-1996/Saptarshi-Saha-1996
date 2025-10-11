@@ -25,8 +25,8 @@ I'm a Senior Research Fellow (PhD Student in Computer Science) at the  __*Comput
 - [Dhruv Rathore](https://in.linkedin.com/in/dhruv-vansraj-rathore-a724291a3), *Indian Statistical Institute (2024-25)*
 - [Rashmi Konnur](https://in.linkedin.com/in/rashmi-konnur-345600255), *Indian Statistical Institute (2025-26)*
 
-  ## I am fortunate to have worked with the following exceptional collaborators:
-  - [Soumadeep Saha](https://espressovi.github.io/)
+## I am fortunate to have worked with the following exceptional collaborators:
+- [Soumadeep Saha](https://espressovi.github.io/)
 
 
 
