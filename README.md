@@ -26,7 +26,7 @@ I'm a Senior Research Fellow (PhD Student in Computer Science) at the  __*Comput
 - [Rashmi Konnur](https://in.linkedin.com/in/rashmi-konnur-345600255), *Indian Statistical Institute (2025-26)*
 
 ## I am fortunate to have worked with the following exceptional collaborators:
-- [Soumadeep Saha](https://espressovi.github.io/)
+- [Soumadeep Saha](https://espressovi.github.io/) , [Koyel Ghosh](https://www.linkedin.com/in/koyel-ghosh-18333076/)
 
 
 
