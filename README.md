@@ -23,7 +23,6 @@ I'm a Senior Research Fellow (PhD Student in Computer Science) at the  __*Comput
 ## I have the privilege of mentoring these outstanding individuals:
 - [Pratyush Kumar Sahoo](https://in.linkedin.com/in/pratyush-kumar-169494239), *Indian Statistical Instittue (2023-24)*
 - [Dhruv Rathore](https://in.linkedin.com/in/dhruv-vansraj-rathore-a724291a3), *Indian Statistical Institute (2024-25)*
-- [Rashmi Konnur](https://in.linkedin.com/in/rashmi-konnur-345600255), *Indian Statistical Institute (2025-26)*
 
 ## I am fortunate to have worked with the following exceptional collaborators:
 - [Soumadeep Saha](https://espressovi.github.io/) , [Koyel Ghosh](https://www.linkedin.com/in/koyel-ghosh-18333076/)
