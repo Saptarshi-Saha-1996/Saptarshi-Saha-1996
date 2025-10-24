@@ -24,12 +24,13 @@ I'm a Senior Research Fellow (PhD Student in Computer Science) at the  __*Comput
 - [Pratyush Kumar Sahoo](https://in.linkedin.com/in/pratyush-kumar-169494239), *Indian Statistical Instittue (2023-24)*
 - [Dhruv Rathore](https://in.linkedin.com/in/dhruv-vansraj-rathore-a724291a3), *Indian Statistical Institute (2024-25)*
 
+<!--
 ## I am fortunate to have worked with the following exceptional collaborators:
 - [Soumadeep Saha](https://espressovi.github.io/) , [Koyel Ghosh](https://www.linkedin.com/in/koyel-ghosh-18333076/)
 
 
 
-<!--
+
 ### আমার পছন্দের কিছু গান (Some of my favorite songs) -
 
 
