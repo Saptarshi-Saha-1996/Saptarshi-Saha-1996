@@ -13,8 +13,8 @@ I'm a Senior Research Fellow (PhD Student in Computer Science) at the  __*Comput
 
 
 ## I have the privilege of mentoring these outstanding individuals:
-- [Pratyush Kumar Sahoo](https://in.linkedin.com/in/pratyush-kumar-169494239), *Indian Statistical Instittue (2023-24)*. Currently @ Swiggy.
-- [Dhruv Rathore](https://in.linkedin.com/in/dhruv-vansraj-rathore-a724291a3), *Indian Statistical Institute (2024-25)*. Currently @ Hindalco. 
+- [Pratyush Kumar Sahoo](https://in.linkedin.com/in/pratyush-kumar-169494239), *M.Tech. (CS), Indian Statistical Instittue (2023-24)*. Currently @ Swiggy.
+- [Dhruv Rathore](https://in.linkedin.com/in/dhruv-vansraj-rathore-a724291a3), *M.Tech. (CS), Indian Statistical Institute (2024-25)*. Currently @ Hindalco. 
 
 
 
